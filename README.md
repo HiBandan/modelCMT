@@ -12,7 +12,7 @@ download the latest version of boost: https://drive.google.com/file/d/1apu5_am2k
 
   extract "boost_1_77_0" folder and rename it to "Boost"
   
-  copy "Boost" to C:\Program Files 
+  copy "Boost" to C:\Program Files (windows) OR /usr/local/include (linux)
 
 
 ## code::Block
