@@ -44,12 +44,14 @@ download boost: https://drive.google.com/file/d/1apu5_am2kJj7HvXJNPhn30k_ryi3gJD
     
 ## run 
 
-  ### code::Block
+  1. open -> compile.CB (in code-block)
   
-  1. settings -> compiler -> search directories (compiler) -> add 
+  2. settings -> compiler -> search directories (compiler) -> add 
 
       -> C:\Program Files\Eigen
   
       -> C:\Program Files\Boost
 
-  2. project -> set program’s arguments
+  3. project -> set program’s arguments
+  
+  4. run 
