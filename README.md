@@ -10,11 +10,8 @@
       
     copy MinGw to C:\
        
-    Right click on This PC -> Properties -> Advanced system settings -> Environment Variables -> System Variables -> Path -> New -> add
-    
-      C:\MinGW or C:\MinGW\bin
+    add environment variable: C:\MinGW or C:\MinGW\bin
 
-    
   ### linux
   
     sudo apt install build-essential
