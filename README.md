@@ -54,4 +54,4 @@ download boost: https://drive.google.com/file/d/1apu5_am2kJj7HvXJNPhn30k_ryi3gJD
 
   project -> set program’s arguments: parameters_ARRAY.txt
   
-  run 
+  run -> 
