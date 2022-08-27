@@ -4,7 +4,7 @@
 
   ### install gcc/g++ 
   
-  download the latest version of Mingw: https://nuwen.net/mingw.html
+  download Mingw: https://nuwen.net/mingw.html
   
       run mingw-xx.exe -> this will create a folder MinGw
       
@@ -46,7 +46,7 @@
 
   ### install gcc/g++ 
   
-  download the latest version of Mingw: https://nuwen.net/mingw.html
+  download Mingw: https://nuwen.net/mingw.html
   
        sudo apt install build-essential
 
