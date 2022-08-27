@@ -1,5 +1,18 @@
 # modelCMT
 
+## install gcc/g++
+  ### windows
+  
+    download the latest version of Mingw: https://nuwen.net/mingw.html
+  
+      run mingw-xx.exe -> this will create a folder MinGw
+      
+      copy MinGw to C:\
+      
+      add environment variable: C:\MinGW or C:\MinGW\bin
+      
+      verify installation: cmd >> gcc --version
+
 ## install eigen:
 download the latest version of eigen:https://drive.google.com/file/d/1VFLlKJI9EaSP9VUaeV8vmPQYkqdIIJPg/view?usp=sharing
   
