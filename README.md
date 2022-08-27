@@ -17,7 +17,9 @@ download the latest version of boost: https://drive.google.com/file/d/1apu5_am2k
 
 ## code::Block
 1. settings -> compiler -> search directories (compiler) -> add 
-   -> C:\Program Files\Eigen
-   -> C:\Program Files\Boost
+
+  -> C:\Program Files\Eigen
+  
+  -> C:\Program Files\Boost
 
 2. project -> set program’s arguments
