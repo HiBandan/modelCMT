@@ -17,7 +17,7 @@
     sudo apt install build-essential
 
 ## install eigen:
-download eigen:https://drive.google.com/file/d/1VFLlKJI9EaSP9VUaeV8vmPQYkqdIIJPg/view?usp=sharing
+download eigen: https://drive.google.com/file/d/1VFLlKJI9EaSP9VUaeV8vmPQYkqdIIJPg/view?usp=sharing
   
   extract "eigen-3.4.0" folder and rename it to "Eigen"
   
