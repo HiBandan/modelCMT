@@ -14,11 +14,14 @@ download the latest version of boost: https://drive.google.com/file/d/1apu5_am2k
   
   copy "Boost" to C:\Program Files (windows) OR /usr/local/include (linux)
 
-## code::Block
-1. settings -> compiler -> search directories (compiler) -> add 
+## run 
 
-    -> C:\Program Files\Eigen
+  ### code::Block
   
-    -> C:\Program Files\Boost
+  1. settings -> compiler -> search directories (compiler) -> add 
 
-2. project -> set program’s arguments
+      -> C:\Program Files\Eigen
+  
+      -> C:\Program Files\Boost
+
+  2. project -> set program’s arguments
