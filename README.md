@@ -52,6 +52,6 @@ download boost: https://drive.google.com/file/d/1apu5_am2kJj7HvXJNPhn30k_ryi3gJD
   
       -> C:\Program Files\Boost
 
-  3. project -> set program’s arguments
+  3. project -> set program’s arguments: parameters_ARRAY.txt
   
   4. run 
