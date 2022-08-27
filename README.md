@@ -9,8 +9,11 @@
     run mingw-xx.exe -> this will create a folder MinGw
       
     copy MinGw to C:\
-      
-    add environment variable: C:\MinGW or C:\MinGW\bin
+       
+    Right click on This PC -> Properties -> Advanced system settings -> Environment Variables -> System Variables -> Path -> New -> add
+    
+      C:\MinGW or C:\MinGW\bin
+
     
   ### linux
   
