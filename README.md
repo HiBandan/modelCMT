@@ -44,14 +44,14 @@ download boost: https://drive.google.com/file/d/1apu5_am2kJj7HvXJNPhn30k_ryi3gJD
     
 ## run 
 
-  1. open -> compile.CB (in code-block)
+  open -> compile.CB (in code-block)
   
-  2. settings -> compiler -> search directories (compiler) -> add 
+  settings -> compiler -> search directories (compiler) -> add 
 
       -> C:\Program Files\Eigen
   
       -> C:\Program Files\Boost
 
-  3. project -> set program’s arguments: parameters_ARRAY.txt
+  project -> set program’s arguments: parameters_ARRAY.txt
   
-  4. run 
+  run 
