@@ -22,9 +22,12 @@ download eigen: https://drive.google.com/file/d/1VFLlKJI9EaSP9VUaeV8vmPQYkqdIIJP
   extract "eigen-3.4.0" folder and rename it to "Eigen"
   
   ### windows
-  copy "Eigen" folder to C:\Program Files 
   
-  OR /usr/local/include (linux)
+    copy "Eigen" folder to C:\Program Files 
+  
+  ### linux 
+  
+    copy "Eigen" folder to /usr/local/include
 
 ## install boost:
 download boost: https://drive.google.com/file/d/1apu5_am2kJj7HvXJNPhn30k_ryi3gJDf/view?usp=sharing
