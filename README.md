@@ -48,11 +48,7 @@
   
   download the latest version of Mingw: https://nuwen.net/mingw.html
   
-      run mingw-xx.exe -> this will create a folder MinGw
-      
-      copy MinGw to C:\
-       
-      add environment variable: C:\MinGW or C:\MinGW\bin
+       sudo apt install build-essential
 
   ### install eigen:
   
@@ -60,7 +56,7 @@
   
       extract "eigen-3.4.0" folder and rename it to "Eigen"
   
-      copy "Eigen" folder to C:\Program Files 
+      copy "Eigen" folder to /usr/local/include
   
   ### install boost:
   
@@ -68,17 +64,17 @@
 
       extract "boost_1_77_0" folder and rename it to "Boost"
   
-      copy "Boost" to C:\Program Files 
-  
+      copy "Boost" to /usr/local/include
+
   ### run 
 
     open -> compile.CB (in code-block)
   
     settings -> compiler -> search directories (compiler) -> add 
   
-        -> C:\Program Files\Eigen 
+        -> /usr/local/include/Eigen
   
-        -> C:\Program Files\Boost 
+        -> /usr/local/include/Boost 
 
     project -> set program’s arguments: parameters_ARRAY.txt
   
