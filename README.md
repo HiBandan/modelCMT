@@ -4,7 +4,7 @@
 
   ### install gcc/g++ 
   
-      download the latest version of Mingw: https://nuwen.net/mingw.html
+  download the latest version of Mingw: https://nuwen.net/mingw.html
   
       run mingw-xx.exe -> this will create a folder MinGw
       
@@ -13,7 +13,8 @@
       add environment variable: C:\MinGW or C:\MinGW\bin
 
   ### install eigen:
-      download eigen: https://drive.google.com/file/d/1VFLlKJI9EaSP9VUaeV8vmPQYkqdIIJPg/view?usp=sharing
+  
+  download eigen: https://drive.google.com/file/d/1VFLlKJI9EaSP9VUaeV8vmPQYkqdIIJPg/view?usp=sharing
   
       extract "eigen-3.4.0" folder and rename it to "Eigen"
   
